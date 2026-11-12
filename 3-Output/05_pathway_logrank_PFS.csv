@@ -1,0 +1,16 @@
+"Function","Description","Type","p_logrank_PFS"
+"CALVIN-PWY","Calvin-Benson-Bassham cycle","Good",0.0824528220653707
+"PWY-6897","thiamine diphosphate salvage II","Good",0.00871619341618549
+"THISYN-PWY","thiamine diphosphate biosynthesis I","Good",0.0867602241533884
+"RIBOSYN2-PWY","flavin biosynthesis I","Good",0.049761777267694
+"PWY-6703","preQ0 biosynthesis","Good",0.0600755919467182
+"PWY0-862","(5Z)-dodecenoate biosynthesis I","Good",0.140249626556163
+"PWY-5989","stearate biosynthesis II","Good",0.48344054315793
+"PWY-7664","oleate biosynthesis IV","Good",0.651829179913973
+"PWY-6282","palmitoleate biosynthesis I","Good",0.672105833552076
+"GLYCOCAT-PWY","glycogen degradation I","Bad",0.217615755108512
+"GLYCOLYSIS","glycolysis I","Bad",0.0509710671649401
+"PWY-5484","glycolysis II","Bad",0.0845950171896827
+"PWY-7199","pyrimidine deoxyribonucleoside salvage","Bad",0.176663738958021
+"HISDEG-PWY","L-histidine degradation I","Bad",0.0318010836670532
+"PWY-7237","myo-/chiro-/scyllo-inositol degradation","Bad",0.384806765729883

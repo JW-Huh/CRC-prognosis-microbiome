@@ -1,0 +1,219 @@
+English name,Korean name,Variable
+Food items,식품항목,
+Cooked rice (g/day),쌀밥,food1
+Cooked rice with soy beans (g/day),콩밥,food2
+Cooked rice with other cereals (g/day),잡곡밥,food3
+Cooked rice and cooked rice with soy beans almolst same (g/day),반반콩밥,food4
+Cooked rice and cooked rice with other cereals almost same (g/day),반반잡곡,food5
+Ramen (g/day),라면,food6
+Wheat noodles with soup (g/day),칼국수,food7
+Chajangmyeon/ jambbong (g/day),짜장면,food8
+Buckwheat vermicelli/ buckwheat noodle (g/day),냉면/메밀,food9
+Dumping/dumping with soup (g/day),만두,food10
+Rice cake (plain rod shape)/ rice cake with soup (g/day),흰떡/떡국,food11
+Rice cake (g/day),떡,food12
+Cereals and corn flakes (g/day),콘푸레이크,food13
+Loaf bread/ sandwich/ toast (g/day),식빵,food14
+Jam/ honey/ butter/ margarine (when with put on bread) (g/day),쨈(2),food15
+Bread with small red bean (g/day),팥빵/호빵,food16
+Other bread (g/day),기타빵,food17
+Cakes/ chocopie (g/day),케익/초코파이,food18
+Pizza/ hamburger (g/day),피자/햄버거,food19
+Parched cereal powder (g/day),"선식(0.667,1.335)",food20
+Cookie/ cracker/ snack (g/day),쿠키(2),food21
+Candy/ chocolate (g/day),사탕/초콜릿,food22
+Nuts (g/day),땅콩/아몬드,food23
+"Legumes (including beans, excluding cooked rice with bean) (g/day)",콩/콩자반,food24
+Soup and stew with soybean paste/ soybean paste (g/day),된장국/청국장,food25
+Eggs/ quail eggs (g/day),계란/메추리알,food26
+Tofu (including tofu in soups and stews) (g/day),두부,food27
+Starch jelly (g/day),묵,food28
+"Potato (including fried, steamed boiled potatoes) (g/day)",감자,food29
+Sweet potatoes (g/day),고구마,food30
+Starch vermicelli (g/day),잡채,food31
+Kimchi and Korean cabbage (g/day),배추김치,food32
+Kkakduki/ small radish kimchi (g/day),깍두기/무김치,food33
+Kimchi and radish with water (g/day),나박김치/동치미,food34
+Other kimchi (green onion/ kodubalbbagi/ mustard leaves) (g/day),기타김치,food35
+Korean style pickles (g/day),장아찌,food36
+radish/ salted radish (g/day),무/단무지,food37
+Korean cabbages/ Korean cabbage soup (g/day),배추/배추국,food38
+Spinach (g/day),시금치,food39
+Lettuce (g/day),상추,food40
+Perilla leaf (g/day),들깻잎,food41
+Vegetable wrap/ vegetable salad (g/day),야채쌈/야채샐러드,food42
+Other green vegetables (g/day),기타녹색채소,food43
+Deokduck/ doraji (g/day),더덕/도라지,food44
+Bean sprouts (g/day),콩나물/숙주나물,food45
+Bracken/ sweet potato stalk/ stem of taro (g/day),고사리,food46
+Oyster mushroom (g/day),느타리버섯,food47
+Other mushrooms (g/day),기타버섯,food48
+Pepper leaves/ chamnamul/ asterscaber (g/day),고춧잎,food49
+Crown daisy/ leek/ water dropwort (g/day),쑥갓/부추,food50
+Cucumber (g/day),오이,food51
+Carot/ carrot juice (g/day),당근,food52
+Onion (g/day),양파,food53
+Green pepper (g/day),풋고추,food54
+Immature pumpkin (g/day),애호박,food55
+Mature pumpkin/ pumpkin juice (g/day),늙은호박,food56
+Pork (belly) (g/day),삼겹살,food57
+Roasted pork (g/day),돼지고기구이/볶음,food58
+Braised pork (g/day),"돼지고기찜(보쌈,장조림)",food59
+Ham/ sausage (g/day),"가공육(햄,소시지)",food60
+Edible viscera (g/day),"부산물(곱창볶음, 내장육)",food61
+Steak/ roasted beef (g/day),스테이크/쇠고기구이,food62
+Dog meat (g/day),개고기,food63
+Fried chicken/ chicken stew (g/day),치킨(0.5/1.3666),food64
+Beef soup (g/day),탕류,food65
+Beef soup with vegetables (g/day),국류,food66
+Sushi (g/day),생선회,food67
+Mackerel/ Pacific saury/ Spanish mackerel (g/day),고등어/꽁치,food68
+Hair tail (g/day),갈치,food69
+Eel (g/day),장어,food70
+Yellow croaker/ sea bream/ flat fish (g/day),조기/돔,food71
+Alaska Pollack (g/day),명태/동태,food72
+Cuttlefish/ octopus (g/day),오징어,food73
+Dried anchovy (g/day),멸치,food74
+Canned tuna (g/day),참치-캔,food75
+Salted-fermented fish (g/day),젓갈(오징어젓),food76
+Clam/whelk (g/day),조개/골뱅이,food77
+Oyster (g/day),굴,food78
+Crab (g/day),게/게장(2),food79
+Shrimp (g/day),새우(2),food80
+Fish paste/ crab flavored (g/day),어묵/게맛살,food81
+Dried laver (g/day),김,food82
+Kelp/ sea mustard (g/day),미역/다시마,food83
+Milk (g/day),우유(2),food84
+Yogurt (g/day),요쿠르트(2),food85
+Ice cream (g/day),아이스크림(2),food86
+Cheese (g/day),치즈(2),food87
+Soybean milk (g/day),두유(2),food88
+Coffee (g/day),커피(0.5185/2),food89
+Coffee sugar (g/day),차에넣는 설탕,food90
+Coffee cream (g/day),차에넣는 프림,food91
+Green tea (g/day),녹차(2),food92
+Carbonated drinks (g/day),청량음료(2),food93
+Other drinks (g/day),기타음료(2),food94
+Strawberry (g/day),딸기,food95
+Muskmelon/ melon (g/day),참외/멜론(2),food96
+Watermelon (g/day),수박(2),food97
+Peach/ plum (g/day),복숭아/자두(2),food98
+Banana (g/day),바나나(2),food99
+Hard/ dried persimmon (g/day),감/곶감(2),food100
+Tangerine (g/day),귤(2),food101
+Pear/ pear juice (g/day),"배(0.6667,1.3333)",food102
+Apple/ apple juice (g/day),사과(2),food103
+Orange/ orange juice (g/day),오렌지/주스(2),food104
+Grape/ grape juice (g/day),포도/주스(2),food105
+Tomato/ cherry tomato/ tomato juice (g/day),토마토/주스(2),food106
+Cereals and grains (g/day),곡물,group1
+Potatoes and starches (g/day),감자 및 전분,group2
+Sugars and sweets (g/day),설탕 및 과자,group3
+Legumes (g/day),콩류,group4
+Seeds and nuts (g/day),씨앗 및 견과류,group5
+Vegetables (g/day),채소,group6
+Mushrooms (g/day),버섯,group7
+Fruits (g/day),과일,group8
+Meat and poultry (g/day),육류 및 가금류,group9
+Eggs (g/day),달걀,group10
+Fish and shellfish (g/day),생선 및 조개류,group11
+Seaweed (g/day),해초,group12
+Milk and dairy (g/day),우유 및 유제품,group13
+Oils and fats (g/day),오일 및 지방,group14
+Beverages (g/day),음료수,group15
+Seasonings (g/day),조미료,group16
+Others (g/day),,group17
+Daily weight intake (g/day),,wet
+Daily calories intake (kcal/day),,var1
+Plant protein (g/day),식물성단백질,var2
+Animal protein (g/day),동물성단백질,var3
+Plant fat (g/day),식물성지질,var4
+Animal fat (g/day),동물성지질,var5
+Carbohydrate (g/day),당질,var6
+Fiber (g/day),식이섬유,var7
+Ash (g/day),회분,var8
+Plant calcium (mg/day),식물성칼슘,var9
+Animal calcium (mg/day),동물성칼슘,var10
+Phosphorus (mg/day),인,var11
+Plant iron (mg/day),식물성철분,var12
+Animal iron (mg/day),동물성철분,var13
+Sodium (mg/day),나트륨,var14
+Potassium (mg/day),칼륨,var15
+Zinc (mg/day),아연,var16
+Vitamin A (μg/day),비타민A,var17
+Retinol (μg/day),레티놀,var18
+Beta-carotene (μg/day),β-카로틴,var19
+Vitamin B1 (mg/day),비타민B1,var20
+Vitamin B2 (mg/day),비타민B2,var21
+Vitamin B6 (mg/day),비타민B6,var22
+Niacin (mg/day),나이아신,var23
+Vitamin C (mg/day),비타민C,var24
+Folate (μg/day),엽산,var25
+Vitamin E (μg/day),비타민E,var26
+Cholesterol (μg/day),콜레스테롤,var27
+Total fatty acid (g/day),총지방산,var28
+Saturated fat (g/day),포화지방산,var29
+Monounsaturated fat (g/day),단일불포화지방산,var30
+Polyunsaturated fat (g/day),다불포화지방산,var31
+Butyric acid (mg/day),4:0,var32
+Caproic acid (mg/day),6:0,var33
+Caprylic acid (mg/day),8:0,var34
+Capric caid (mg/day),10:0,var35
+Decenoic acid (mg/day),10:1,var36
+Lauric acid (mg/day),12:0,var37
+Myristic acid (mg/day),14:0,var38
+Myristoleic acid (mg/day),14:1,var39
+Palmitic acid (mg/day),16:0,var40
+Palmitolic acid (mg/day),16:1,var41
+Stearic acid (mg/day),18:0,var42
+Oleic acid (mg/day),18:1,var43
+Linoleic acid (mg/day),18:2 (n-6),var44
+Alpha-linolenic acid (mg/day),18:3 (n-3),var45
+Stearidonic acid (mg/day),18:4 (n-3),var46
+Arachidic acid (mg/day),20:0,var47
+Eicodenoic acid (mg/day),20:1,var48
+Eicosadienoic acid (mg/day),20:2 (n-6),var49
+Dihomo-gamma-linolenic acid (mg/day),20:3 (n-6),var50
+Eicosatetraenoic acid (mg/day),20:4 (n-3),var51
+Arachidonic acid (mg/day),20:4 (n-6),var52
+Eicosapentaenoic acid (mg/day),20:5 (n-3),var53
+Behenic acid (mg/day),22:0,var54
+Docosenoic acid (mg/day),22:1,var55
+Docosapentaenoic acid (mg/day),22:5 (n-3),var56
+Docosahexaenoic acid (mg/day),22:6 (n-3),var58
+Lignoceric acid (mg/day),24:0,var59
+Tetrcosenoic acid (mg/day),24:1,var60
+Other fatty acid (mg/day),기타지방산,var61
+Isoleucine (mg/day),이소루신,var62
+Leucine (mg/day),루신,var63
+Lysine (mg/day),라이신,var64
+Methionine (mg/day),메티오닌,var65
+Cysteine (mg/day),시스테인,var66
+Sulfur containing amino acid (mg/day),함황아미노산,var67
+Phenylalanine (mg/day),페닐알라닌,var68
+Tyrosine (mg/day),티로신,var69
+Aromatic arnino acids (mg/day),방향족아미노산,var70
+Threonine (mg/day),트레오닌,var71
+Tryptophan (mg/day),트립토판,var72
+Valine (mg/day),발린,var73
+Histidine (mg/day),히스티딘,var74
+Arginine (mg/day),아르기닌,var75
+Alanine (mg/day),알라닌,var76
+Aspartic acid (mg/day),아스파르트산,var77
+Glutamic acid (mg/day),글루탐산,var78
+Glycine (mg/day),글리신,var79
+Proline (mg/day),프롤린,var80
+Serine (mg/day),세린,var81
+Taurine (mg/day),타우린,var82
+Vitamin D (μg/day),비타민D,var83
+Vitamin K (μg/day),비타민K,var84
+Vitamin B12 (μg/day),비타민B12,var85
+Pantothenic acid (μg/day),판토텐산,var86
+Biotin (μg/day),비오틴,var87
+Chlorine (mg/day),염소,var88
+Magnesium (mg/day),마그네슘,var89
+Copper (mg/day),구리,var90
+Fluorine (μg/day),불소,var91
+Manganese (mg/day),망간,var92
+Iodine (μg/day),요오드,var93
+Selenium (μg/day),셀레늄,var94

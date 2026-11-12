@@ -1,0 +1,21 @@
+# ---- large / regenerable intermediates -------------------------------------
+3-Output/*.rds
+3-Output/log_*.txt
+1-Input/picrust2/path_abun_contrib.tsv
+1-Input/picrust2/path_abun_contrib.tsv.gz
+1-Input/db/
+*.RDS
+*.RData
+*.Rhistory
+.Rproj.user/
+
+# ---- patient-identifiable files: never commit -------------------------------
+*540 patients*
+CRC_prognosis_Metadata_339*
+new_snu_location*
+*.sas7bdat
+
+# ---- OS / editor noise ---------------------------------------------------------
+.DS_Store
+Thumbs.db
+~$*

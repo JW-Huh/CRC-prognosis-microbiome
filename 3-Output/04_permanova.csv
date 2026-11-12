@@ -1,0 +1,37 @@
+"Variable","n","p"
+"Cluster_2",333,0.001
+"Stage",333,0.012
+"Stage_01",333,0.012
+"Stage_1",333,0.173
+"PFS_c",333,0.011
+"OS_c",333,0.007
+"Recur_type",333,0.02
+"Recur_1y_v",312,0.019
+"Recur_2y_v",261,0.013
+"T_c",333,0.127
+"N_c",333,0.129
+"M_c",333,0.01
+"Sex",333,0.063
+"CEA_1",327,0.001
+"fibrinogen_1",331,0.011
+"Lym_inv",333,0.145
+"NeoadjTx_1",333,0.728
+"Post_chemo",333,0.11
+"Response_chemo2",233,0.189
+"Comorbidity",333,0.192
+"preoperative_medication",333,0.149
+"antihypertensive drug_01",333,0.383
+"lipid-lowering drug_01",333,0.078
+"antidiabetic drug_01",333,0.01
+"Nonsteroidal anti-inflammatory drug_01",333,0.588
+"antiplatelet drug_01",333,0.474
+"antiulcer drug_01",333,0.025
+"drug for benign prostatic hypertrophy_01",333,0.577
+"Hypertension_c",333,0.651
+"Diabetes_c",333,0.015
+"Heart disease_c",333,0.393
+"Pulmonary disease_c",333,0.145
+"Liver disease_c",333,0.019
+"Cerebrovascular accident_c",333,0.782
+"Renal disease_c",333,0.048
+"Thyroid disease_c",333,0.222
